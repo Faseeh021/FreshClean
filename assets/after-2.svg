@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <!-- Placeholder: CLEAN bricks (after) - replace with real photo -->
+  <defs>
+    <pattern id="brick" width="120" height="72" patternUnits="userSpaceOnUse">
+      <rect width="120" height="72" fill="#9a8f84"/>
+      <rect x="3" y="3" width="112" height="30" rx="2" fill="#a59a8e"/>
+      <rect x="-27" y="39" width="112" height="30" rx="2" fill="#9f9489"/>
+      <rect x="93" y="39" width="24" height="30" rx="2" fill="#9f9489"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#brick)"/>
+  <text x="400" y="315" font-family="Arial, sans-serif" font-size="34" fill="#5a5248" text-anchor="middle" opacity=".6">Na — foto plaatsen</text>
+</svg>

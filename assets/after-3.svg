@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <!-- Placeholder: CLEAN slabs (after) - replace with real photo -->
+  <defs>
+    <pattern id="slabs" width="200" height="200" patternUnits="userSpaceOnUse">
+      <rect width="200" height="200" fill="#8f8f86"/>
+      <rect x="8" y="8" width="184" height="184" rx="4" fill="#99998f"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#slabs)"/>
+  <text x="400" y="315" font-family="Arial, sans-serif" font-size="34" fill="#5a5a52" text-anchor="middle" opacity=".6">Na — foto plaatsen</text>
+</svg>

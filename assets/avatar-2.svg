@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <!-- Placeholder avatar 2 - replace with real headshot -->
+  <circle cx="48" cy="48" r="48" fill="#232323"/>
+  <circle cx="48" cy="38" r="15" fill="#8a8a80"/>
+  <path d="M20 84c4-16 15-24 28-24s24 8 28 24" fill="#8a8a80"/>
+</svg>
